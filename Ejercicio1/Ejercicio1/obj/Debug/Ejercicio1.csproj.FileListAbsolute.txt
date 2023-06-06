@@ -1,0 +1,11 @@
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\V\2023\Ciclo DAW\Programación\Tema 9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
